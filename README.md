@@ -30,6 +30,23 @@ The rise in climate change-related natural disasters, such as wildfires in North
 
 ## Scenario Planning 
 The scenario planning focuses on establishing the baseline and weighted factors, which vary significantly depending on the industry. After setting up both, the project calculates the resilience score for two dummy companies operating in different industries. Here are the steps we took for scenario planning:
-- Setting up the Baseline : define the baseline and categories of all factors as a starting point for analyzing outcomes
-- Setting the Baseline Score 
+- Setting up the Baseline : We established a baseline score for several key factors affecting workforce resilience, including work arrangements, AI/tech adoption, tax rate, average temperature, and natural disasters. 
+- Setting the Baseline Score : We assigned scores within three categories - moderate, optimistic, and pessimistic - to normalize these factors, preventing bias due to differences in their proportions.
+- Setting the Weighting Factors : To compute the resilience score, we assigned weight factors to each key element, which are adjustable based on a company's strategic priorities. In this example, equal weight (0.2) is given to work arrangements, AI adoption, tax rates, average temperature, and natural disasters, signifying equal importance to all factors in this scenario.
+- Setting Companies Persona : We create two fictional companies operating in technology and retail industry to illustrate how to calculate and analyze the resilience of workforce planning in geographic factors.
+- Calculating the Baseline Resiliency Score : We calculated the baseline resilience score by multiplying each key element's weighted factor by its respective baseline score. With a resulting baseline resilience score of 73.5, we can now use this as a benchmark, meaning any company with a score below this isn't meeting the resilience standard.
+- Calculating Resiliency Score : Using the same weight factors as before, we calculated the resiliency scores for two hypothetical companies, Company A and Company B. The comparison shows that Company A is more adaptable to changes and disruptions compared to the baseline, with higher scores in work arrangement, AI adoption, and average temperature, while Company B is less resilient overall, with lower scores in most areas but a higher score in average temperature.
+
+## Sensitivity Analysis
+Sensitivity analysis examines the sensitivity of various industries to five key factors. The findings reveal significant variances in industry responses, with some industries being more sensitive to certain factors. The higher the weighted value of each factor, the more important it is to the organization.
+- Setting Weighted Value to Each Industries : The importance factors ranking in these industries is based on industry trends and expert opinions. It's important for companies to regularly review and update their factors based on current trends as they can change over time.
+- Formula for Workforce Resilliency : We developed a formula to calculate a company's resilience score, taking into consideration the specific industry they operate in. Our findings suggest that there is significant variability in how different industries respond to the factors affecting workforce resilience. To accurately represent this sensitivity in our workforce resilience planning scores, we propose assigning a higher weight to factors that an industry is more sensitive to. This weighted approach would enable policymakers, industry leaders, and analysts to anticipate changes and implement planning to adapt effectively to evolving workforce resilience dynamics within each industry.
+
+## Conclusion
+In conclusion, we've studied factors that can disrupt workforce resilience in our fast-changing world. We've underscored the importance of understanding various influences on workforce planning, from labor market shifts and AI/tech advancements to weather patterns, tax burdens, and natural disasters. We've also highlighted the need to set a baseline and weighted factors to gauge workforce resilience in different industries. Our various analyses reveal how industries react differently to these key factors.
+
+Based on our findings, we suggest businesses actively plan for a resilient workforce, tailoring their strategies to their industry's unique challenges. This can help businesses stay competitive, safeguard their workforce, and contribute to global economic stability, despite an uncertain future. Future studies could delve deeper into industry-specific strategies and evaluate the long-term effects of workforce resilience planning on business success, sustainability, and innovation.
+
+
+
 
